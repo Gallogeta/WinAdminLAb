@@ -194,9 +194,9 @@ This project is for educational purposes. Windows Server and Microsoft 365 requi
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/gallogeta)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/meeliscs)
-- Portfolio: [yourwebsite.com](https://itsusi.eu)
+- GitHub: [@gallogeta](https://github.com/gallogeta)
+- LinkedIn: [/meeliscs](https://linkedin.com/meeliscs)
+- Portfolio: [itsusi.eu](https://itsusi.eu)
 
 ## Acknowledgments
 
